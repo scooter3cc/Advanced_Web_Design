@@ -15,4 +15,4 @@
 3/5 - EOS
 =========
 
--Iron out small things that need to be changed
+- Iron out small things that need to be changed
